@@ -1,0 +1,2 @@
+def avg(lst: list) -> float:
+    return sum(lst) / len(lst)
